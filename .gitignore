@@ -5,6 +5,7 @@
 !.zshrc
 !.gnupg/gpg-agent.conf
 !.gnupg/gpg.conf
+!.gnupg/sshcontrol
 !.chunkwmrc
 !.khdrc
 !.iterm/com.googlecode.iterm2.plist
