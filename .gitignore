@@ -1,0 +1,10 @@
+*
+
+# Don't ignore these files
+!.gitignore
+!.zshrc
+!.gnupg/gpg-agent.conf
+!.gnupg/gpg.conf
+!.chunkwmrc
+!.khdrc
+!.iterm/com.googlecode.iterm2.plist
